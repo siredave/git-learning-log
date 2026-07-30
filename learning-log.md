@@ -9,4 +9,5 @@ Nextwork.ai github project coursework.
 - Push my work to GitHub
 
 ## What I Learned Today
-- Git tracks changes to files over time
+- Git is like a time machine for your files
+- Every commit is a snapshot you can go back to
